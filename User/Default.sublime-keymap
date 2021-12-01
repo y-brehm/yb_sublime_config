@@ -1,0 +1,9 @@
+[
+{
+        "keys": ["control+l", "ctrl+j"],
+        "command": "ltx_jump_to_pdf",
+        "context": [
+            {"key": "selector", "operand": "text.tex.latex", "operator": "equal"}
+        ]
+    }
+]

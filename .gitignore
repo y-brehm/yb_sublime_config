@@ -1,0 +1,16 @@
+User/"Package Control".last-run
+User/"Package Control".ca-list
+User/"Package Control".ca-bundle
+User/"Package Control".system-ca-bundle
+User/"Package Control".cache/
+User/"Package Control".ca-certs/
+
+bs4
+jsonschema
+LanguageTool
+oauthlib
+requests
+requests-oauthlib
+tabulate
+.gitignor.swp
+

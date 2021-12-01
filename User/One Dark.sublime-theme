@@ -1,0 +1,17 @@
+// Documentation at https://www.sublimetext.com/docs/themes.html
+{
+	"name": "One_Dark_YB_Edit",
+    "variables":
+    {
+        "nearly_black": "#20201F",
+        "black": "#111"
+    },
+	"globals":
+    {
+        "background": "var(black)"
+    },
+	"rules":
+	[
+		
+	]
+}
